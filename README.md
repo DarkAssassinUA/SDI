@@ -5,7 +5,7 @@ Smart DLC Installer to Steam/Epic Games Store Train Sim World 4
 
 Использование:
 
-1)Скачайте архив из раздела Release
+1)Скачайте архив c именем SDI из раздела Release
 
 2)Распакуйте в папку с скачанной раздачей\TS2Prototype\Binaries\WinGDK
 
